@@ -1,0 +1,26 @@
+<annotation>
+	<folder>extracted_frames</folder>
+	<filename>401.jpg</filename>
+	<path>D:\App Development\Splash Awards\extracted_frames\401.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>303</xmin>
+			<ymin>479</ymin>
+			<xmax>439</xmax>
+			<ymax>550</ymax>
+		</bndbox>
+	</object>
+</annotation>
